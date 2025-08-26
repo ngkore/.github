@@ -17,7 +17,7 @@ NgKore is an open-source community driving innovation across **Quantum Safe Netw
 
 *"NgKore is India's first open source community that works on Post Quantum Cryptography and eBPF"*
 
-Our community actively engages with global open-source foundations and research alliances to shape the future of telecom and network infrastructure. In partnership with the University of Delhi (2023-2025), we have supported the institution in becoming a member or associate member of several leading open-source and standards organizations—including the **Magma Foundation, OpenAirInterface (OAI), LF Connectivity, Open Infrastructure Foundation (OIF), TARS Foundation, NextArch Foundation**,** and the **PKI Consortium**. 
+Our community actively engages with global open-source foundations and research alliances to shape the future of telecom and network infrastructure. In partnership with the University of Delhi (2023-2025), we have supported the institution in becoming a member or associate member of several leading open-source and standards organizations—including the **Magma Foundation, OpenAirInterface (OAI), LF Connectivity, Open Infrastructure Foundation (OIF), TARS Foundation, NextArch Foundation**, and the **PKI Consortium**. 
 
 In addition, we are actively associated with initiatives such as the **LFN Super Blueprint (SBP), Hyperledger, LF Decentralized Trust (LFDT), Post-Quantum Cryptography Alliance (PQCA), O-RAN Software Community (OSC), Nephio, L3AF, OpenSSL Foundation** and **OpenSSL Corporation**.
 
