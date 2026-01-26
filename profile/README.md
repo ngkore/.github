@@ -4,9 +4,8 @@
  <img alt="" src="YOUR-DEFAULT-IMAGE">
 </picture> -->
 
-<br>
-<img alt="" src="../logo/color-logo-no-bg.png" />
-<hr>
+<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/de3f764a-ddb4-4b7b-8da0-f9964e2c11e6" />
+
 
 <!-- ## ![NgKore Logo](../logo.svg) -->
 
